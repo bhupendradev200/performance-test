@@ -1,0 +1,33 @@
+./test_api
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.iml
+
+# Ignore node.js files
+node_modules/
+npm-debug.log
+
+# Ignore build and dist files
+build/
+dist/
+*.min.js
+
+# Ignore log files
+*.log
+
+# Ignore temp files
+*.tmp
+*.bak
+
+# Ignore config files
+config.json
+.env
+
+# Ignore editor files
+*.swp
+*.swo

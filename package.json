@@ -1,0 +1,39 @@
+{
+  "name": "api-load-test",
+  "version": "1.0.0",
+  "description": "A powerful and flexible API load testing tool with parallel and sequential testing capabilities",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test_api/test.js",
+    "start": "node index.js",
+    "lint": "eslint .",
+    "prepare": "npm run lint"
+  },
+  "keywords": [
+    "api",
+    "testing",
+    "load-testing",
+    "performance",
+    "benchmark",
+    "http",
+    "https"
+  ],
+  "author": "Bhupendra M.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pidusage": "^4.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/api-load-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/api-load-test/issues"
+  },
+  "homepage": "https://github.com/yourusername/api-load-test#readme"
+}
