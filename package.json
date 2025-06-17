@@ -1,5 +1,5 @@
 {
-  "name": "api-load-test",
+  "name": "performance-test",
   "version": "1.0.0",
   "description": "A powerful and flexible API load testing tool with parallel and sequential testing capabilities",
   "type": "module",
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/api-load-test.git"
+    "url": "git+https://github.com/yourusername/performance-test.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/api-load-test/issues"
+    "url": "https://github.com/yourusername/performance-test/issues"
   },
-  "homepage": "https://github.com/yourusername/api-load-test#readme"
+  "homepage": "https://github.com/yourusername/performance-test#readme"
 }
